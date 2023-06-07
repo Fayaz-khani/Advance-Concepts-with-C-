@@ -1,0 +1,204 @@
+this is mudassir fayaz.
+1.	Object Oriented Programming in C++
+2.	Encapsulation 
+3.	Inheritance in 
+4.	Polymorphism 
+5.	Introduction to linedlist
+6.	Deletion in linked list
+7.	Reverse a linked list
+8.	Reverse k nodes in a linked list
+9.	Detection and Removal of Cycle in linked list
+10.	Doubly linked list
+11.	Append last k Nodes of linked list
+12.	Find intersection point of 2 linked list
+13.	Merge 2 sorted linked list
+14.	Circular linked list 
+15.	Put even position nodes after odd
+16.	Time complexity using masters
+17.	Stack data structure
+18.	Reverse a sentence using stacks
+19.	Reverse a stack 
+20.	 Introduction to prefix , infix and postfix.
+21.	Prefix Expression Evaluation.
+22.	Postfix expression evaluation 
+23.	Intix to postfix stack challenges
+24.	Infix to prefix placement
+25.	Balanced parenthesis
+26.	Introduction to queue 
+27.	Linked list implementation of queues
+28.	Queue using stack 
+29.	Stack using queue
+30.	Stacking using queues
+31.	Sliding window maximum using deque
+32.	Largest rectangle code
+33.	Prapping rainwater 
+34.	Redundant parenthesis
+35.	The stock span 
+36.	Two pointers three sum
+37.	Max consecutive ones
+38.	Longest substring 
+39.	Binary tree
+40.	Binary tree traversal
+41.	Build tree form preorder 
+42.	Build tree postorder and inorder
+43.	Level order traversal , sum at kth level in build tree
+44.	Count and sum of nodes
+45.	Height and diameter in binary tree
+46.	Sum replacement
+47.	Height balanced binry tree
+48.	Right view of birnery tree
+49.	Left view of binary tree 
+50.	Shortest distance between 2 nodes
+51.	Flatten a binary tree
+52.	Nodes at distance k in birnay tree
+53.	Lowest common ancestor in binary tree
+54.	Max sum path frm one node to another binarytree
+55.	Binary search trees
+56.	Search and delete in Binary search tree 
+57.	Construct binary search tree form presorder
+58.	Check for finery search tree placement 
+59.	Build balanced BST from sorted Array
+60.	Catalan Numbers Application placement 
+61.	Zigzag traversal tree
+62.	Identical binary search tree in BT
+63.	Largest binary search tree
+64.	Recover binary search tree
+65.	Set & multiset standard
+66.	Template 
+67.	Place elements to maximise minimum distance
+68.	Page allocation problem
+69.	Painters partition problem 
+70.	Search in sorted & rotated Array
+71.	Find the peak element 
+72.	Max sum sabarray
+73.	Minimum subarray size
+74.	From muber divisible by 3 sliding window
+75.	Subarray with palindromic concatenation
+76.	Perfect numvers in subarrays
+77.	Heap intro Final ecport for upload 
+78.	HeapsSort 
+79.	Heap STL 
+80.	Heasps median of running stream
+81.	Heaps merge
+82.	Heap smallest sequence with sum k
+83.	Hashing introduction to hasing
+84.	Hashing STL
+85.	HASHING COUNT FREUENCCY of elements
+86.	Hashing vertical order print
+87.	Hashing numbers of subarrrays with sum zero
+88.	Hashing sliding window technique
+89.	Hashing top k most prequency elements
+90.	Sudoku solver hashing
+91.	Greedy algorithm introduction 
+92.	Indian coin change greedy algotithm
+93.	Activity selection problem 
+94.	Fractional knapsack 
+95.	Optimal pattern merge 
+96.	Expedi greedy
+97.	Maximum and minimum difference
+98.	Graphs introduction
+99.	dynamic  programming
+100.	graph terminologies
+101.	Graphs pepresentation
+102.	BFS breadth first search 
+103.	DFS depth first search 
+104.	Graphs topological sort
+105.	Cycle detection in undirected Graphs
+106.	Cycle detection in directed Graphs
+107.	Connected components
+108.	Bipartite Graph 
+109.	Disjoint set union graph
+110.	Cycle detection undirected graph using DSU 
+111.	Kruskal’s algorithm 
+112.	Prims algorithm
+113.	Dijkstra’s algorithm
+114.	Bellman ford algorithm 
+115.	Floyd warshall algorithm
+116.	Snakes and ladders
+117.	Graphs surrounded region
+118.	fibonacci sequence 
+119.	mini number of squares 
+120.	coin change problem 
+121.	01 knapsack 
+122.	Longest increasing subsequence 
+123.	Longest common sequence 
+124.	Matrix chain multiplication 
+125.	Min jumos to reach end 
+126.	Optimal game strategy
+127.	Number of subsequences 
+128.	Count numbers of binary strings
+129.	0-N knapsack 
+130.	Kadnae algorithm 
+131.	Max lenth of bitonic 
+132.	Friends paring problem 
+133.	Ugly numbers 
+134.	LCS with 3 string 
+135.	K-ordered LCS 
+136.	Tries introduction 
+137.	XOR subarray
+138.	Trie bach challenge 
+139.	Digital dictionary tries challenges
+140.	Extended Euclid algorithm
+141.	Multiplicative modulo
+142.	Euler Totient fuction 
+143.	Binary Exponentiation
+144.	Fermat little and Wilson theorem 
+145.	Botring factorials SPOJ 
+146.	Into to Fibonacci in log(n)
+147.	String hashing string algorithm 
+148.	Substr() function 
+149.	KMP algotithms
+150.	Rabin karp string algorithms
+151.	Guide to interactive probles
+152.	Segment tree intro
+153.	Query in segment tree
+154.	Max and min queries
+155.	Number of mini on a segment
+156.	User Snippets in VSCode
+157.	Segment with xax sum 
+158.	Kth one segment tree
+159.	First element at least x
+160.	Nested segments 
+161.	Intersecting segments 
+162.	Fenwick tree introduction
+163.	Point & Range
+164.	Count inversion Fenwick tree
+165.	Square Root decomposiotoin
+166.	 RMQSQ-Spoj 
+167.	Mo’s algorithm 
+168.	DQueary SPOJ
+169.	Policy based data strucures ……………………
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+170.	Seven best problems on recursion
+171.	Advance  recursion problems
+172.	Recursion last lecture.
+173.	Backtracking rat in a maze
+174.	Permutation return all possible permutation
+175.	N-queen problem 
+176.	Merge sort
+177.	Quick sort 
+178.	Vectors and Pair
+179.	Count  Sort
+180.	DNF sort
+181.	Wave sort
+182.	Count inversion Merge sort 
+
+
+
+
+ 
+
+
